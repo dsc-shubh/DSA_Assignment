@@ -26,5 +26,5 @@ int main(){
 	
 	cout<<"optimal min number of multiplication is:"<<endl;
 	cout<<m[0][N];
-	return 0;
-}
+	return 0;  //very nicely written code, easy to understand but please add comments
+ }
